@@ -20,7 +20,7 @@ Give me a.. b
 BOB is.. GRAND!
 ```
 
-## Cheers (Part 2)
+## Cheers (Part 2).
 
 ### What to Implement
 1. After your user enters their name, your program should ask for their birthdate.
